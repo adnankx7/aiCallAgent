@@ -1,0 +1,15 @@
+[
+  {
+    "listing_id": "LIST_001",
+    "phone_number": "+923135673612",
+    "car_make": "Toyota",
+    "car_model": "Corolla",
+    "year": 2020,
+    "price": 2500000,
+    "location": "Lahore",
+    "mileage": 45000,
+    "fuel_type": "Petrol",
+    "transmission": "Automatic",
+    "description": "Well maintained Toyota Corolla in excellent condition"
+  }
+]

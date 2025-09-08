@@ -1,0 +1,9 @@
+watchdog
+websockets
+fastapi
+uvicorn
+pydantic
+openai
+httpx
+twilio
+python-dotenv
